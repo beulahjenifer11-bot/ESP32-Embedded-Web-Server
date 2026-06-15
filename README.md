@@ -89,21 +89,6 @@ The live dashboard displays:
 
 ---
 
-## 📊 Output Screenshots
-
-### Circuit Diagram
-![Circuit](outputs/screenshot1.png)
-
-### WiFi Connection and Server Startup
-![Server Startup](outputs/screenshot2.png)
-
-### Live Sensor Data Logging
-![Sensor Logging](outputs/screenshot3.png)
-
-### Dashboard HTML Generation Code
-![Dashboard Code](outputs/screenshot4.png)
-
----
 
 ## 🚨 Alert Logic
 
